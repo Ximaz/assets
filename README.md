@@ -1,1 +1,2 @@
-# assets
+# Assets
+Assets is just a static repository that will contain images, videos, sounds, and some other static files such as CSS or JS files. It's not a project or something interesting for you, it's just a host repo.
